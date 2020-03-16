@@ -46,7 +46,7 @@ export const Descriptions = styled.Text`
 export const CardFooter = styled.View`
   flex-direction:row;
   align-items:center;
-  justify-content: space-between;  
+  justify-content: space-between;
   padding:30px;
   background:#EEE;
   border-radius:4px
@@ -57,5 +57,4 @@ export const Annotation = styled.Text`
   font-size:12px;
   color:#333;
   text-align:justify
-
 `;
